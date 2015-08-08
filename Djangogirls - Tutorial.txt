@@ -1,0 +1,14 @@
+activate ldjango
+
+python manage.py shell_plus --notebook
+
+
+
+
+Start:
+http://tutorial.djangogirls.org/en/index.html
+
+
+
+08.08.2015:
+http://tutorial.djangogirls.org/en/django_admin/index.html
